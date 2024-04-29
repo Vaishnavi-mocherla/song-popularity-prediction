@@ -1,2 +1,6 @@
 # Python environment
 .venv
+.env
+
+
+.DS_Store
